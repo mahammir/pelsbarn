@@ -610,18 +610,18 @@ i.fa.fa-angle-left, i.fa.fa-angle-right{
   align-items:center;
 }
 .fk-product-radio:checked{
-  accent-color:#12613DFF !important;
-  background-color:#12613DFF !important;
-  border-top-color:#12613DFF !important;
+  accent-color:#ff9900 !important;
+  background-color:#ff9900 !important;
+  border-top-color:#ff9900 !important;
   border-top-style:solid !important;
   border-top-width:3px !important;
-  border-left-color:#12613DFF !important;
+  border-left-color:#ff9900 !important;
   border-left-style:solid !important;
   border-left-width:3px !important;
-  border-right-color:#12613DFF !important;
+  border-right-color:#ff9900 !important;
   border-right-style:solid !important;
   border-right-width:3px !important;
-  border-bottom-color:#12613DFF !important;
+  border-bottom-color:#ff9900 !important;
   border-bottom-style:solid !important;
   border-bottom-width:3px !important;
   border-top-left-radius:50% !important;
@@ -5425,7 +5425,7 @@ details[open] .fk-collapsible-list-content{
 }
 .faqbtn{
   border-style:solid;
-  border-color:#12613DFF !important;
+  border-color:#ff9900 !important;
   border-top-width:1px;
   border-bottom-width:1px;
   border-left-width:1px;
@@ -5451,7 +5451,7 @@ details[open] .fk-collapsible-list-content{
   float:left;
 }
 .faqbtnactive{
-  background-color:#12613DFF !important;
+  background-color:#ff9900 !important;
   color:#ffffff !important;
 }
 #i7wyfvw{

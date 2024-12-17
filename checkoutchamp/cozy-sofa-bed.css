@@ -343,7 +343,7 @@ a{
   width:100% !important;
 }
 button.slick-arrow{
-  background:#ff9900 !important;
+  background:#FF9900 !important;
 }
 i.fa.fa-angle-left, i.fa.fa-angle-right{
   color:white !important;
@@ -399,7 +399,7 @@ i.fa.fa-angle-left, i.fa.fa-angle-right{
   line-height:40px;
   font-size:40px;
   text-align:left;
-  color:#017965 !important;
+  color:#ff9900 !important;
 }
 #imo63j{
   padding:12px 10px;
@@ -1974,7 +1974,7 @@ details[open] .fk-collapsible-list-content{
   padding-top:0;
   padding-bottom:0;
   border-style:none;
-  border-color:#017965FF !important;
+  border-color:#ff9900FF !important;
   border-top-width:0;
   border-bottom-width:0;
   border-left-width:0;
@@ -2055,7 +2055,7 @@ details[open] .fk-collapsible-list-content{
   padding-top:0;
   padding-bottom:0;
   border-style:none;
-  border-color:#017965FF !important;
+  border-color:#ff9900FF !important;
   border-top-width:0;
   border-bottom-width:0;
   border-left-width:0;
@@ -9993,7 +9993,7 @@ cust-info-input{
   padding-top:0;
   padding-bottom:0;
   border-style:none;
-  border-color:#017965FF !important;
+  border-color:#ff9900FF !important;
   border-top-width:0;
   border-bottom-width:0;
   border-left-width:0;

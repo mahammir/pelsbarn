@@ -108,6 +108,7 @@
 
     #igvkg {
         font-size: 18px;
+    }
 }
   
 @media (min-width: 960px) {
@@ -120,3 +121,8 @@
   #ipvvqz{
     width: 100% !important; 
   }
+
+  #fkt-link-c49-d92-af7 {
+    padding-left: 10px !important;
+    padding-right: 10px  !important;
+}

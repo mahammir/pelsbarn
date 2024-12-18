@@ -137,6 +137,10 @@
         padding-right: 15px;
         padding-left: 15px;
     }
+
+    #fkt-image-a90-c88-938 {
+        color: black !important;
+        width: 500px !important;
 }
 
 @media (min-width: 600px) {

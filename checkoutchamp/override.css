@@ -1,41 +1,41 @@
 @media (max-width: 480px) {
-    #i0vonj{
-      padding-left: 5px;
+    #i0vonj {
+        padding-left: 5px;
     }
-  
+
     #fkt-image-779-ca8-bdf,
     #fkt-image-de7-297-855 {
-      height: 49px;
-      width: auto;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
+        height: 49px;
+        width: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
-  
+
     #fkt-link-c49-d92-af7 {
-      font-size: 14px;
+        font-size: 14px;
     }
-  
+
     #fkt-link-c49-d92-af7 {
-      padding-right: 20px;
+        padding-right: 20px;
     }
-  
+
     #fkt-image-2a0-f95-a8d {
-      height: 29px;
+        height: 29px;
     }
-  
+
     #iowqy5r {
-      align-self: center;
-      margin-right: 0px;
+        align-self: center;
+        margin-right: 0px;
     }
-  
+
     #i8ebe {
-      margin-right: 10px;
-      margin-left: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
     }
-  
-    #il8dj{
-      height: 370px;
+
+    #il8dj {
+        height: 370px;
     }
 
     #fkt-image-736-2b1-b9b {
@@ -52,7 +52,6 @@
     }
 
     #ilwyvpx {
-        color: inherit !important;
         font-size: 1.6rem;
     }
 
@@ -74,18 +73,23 @@
     #iyaw6oi {
         padding-bottom: 22px;
     }
+
     #iv7nx8j {
-    padding-bottom: 22px;
+        padding-bottom: 22px;
     }
+
     #fkt-image-6c9-181-b6b {
         height: 300px;
     }
-        #fkt-image-404-1a3-a2d {
-            height: 300px;
+
+    #fkt-image-404-1a3-a2d {
+        height: 300px;
     }
+
     #fkt-image-f77-5ba-83a {
         height: 300px;
     }
+
     #fkt-image-385-dbb-bba {
         height: 300px;
     }
@@ -110,33 +114,33 @@
         width: 100% !important;
     }
 }
-  
+
 @media (min-width: 960px) {
-    #fkt-link-c49-d92-af7{
-      padding-right: 15px;
-      padding-left: 15px;
+    #fkt-link-c49-d92-af7 {
+        padding-right: 15px;
+        padding-left: 15px;
     }
 }
-  
+
 @media (min-width: 600px) {
     #i4dg34b {
         width: 100% !important;
     }
 }
 
-#ipvvqz{
-    width: 100% !important; 
+#ipvvqz {
+    width: 100% !important;
 }
 
 #fkt-link-c49-d92-af7 {
     padding-left: 10px !important;
-    padding-right: 10px  !important;
+    padding-right: 10px !important;
 }
 
-.faqbtn{
+.faqbtn {
     color: #ff9900 !important;
 }
 
-.faqbtn:active{
+.faqbtn:active {
     color: #fff !important;
 }

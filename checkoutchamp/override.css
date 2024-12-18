@@ -98,10 +98,6 @@
         height: auto;
     }
 
-    .faqbtn{
-        color: #ff9900 !important;
-    }
-
     #fkt-image-bf7-eaa-b84 {
         width: 300px !important;
     }
@@ -125,4 +121,12 @@
   #fkt-link-c49-d92-af7 {
     padding-left: 10px !important;
     padding-right: 10px  !important;
+}
+
+.faqbtn{
+    color: #ff9900 !important;
+}
+
+.faqbtn:active{
+    color: #fff !important;
 }

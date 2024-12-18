@@ -36,10 +36,74 @@
   
     #il8dj{
       height: 370px;
-    }  
-  }
+    }
+
+    #fkt-image-736-2b1-b9b {
+        height: 230px;
+    }
+
+    #ibt0z02 {
+        font-size: 26px;
+    }
+
+    #igebmrm {
+        color: inherit;
+        font-size: 1.5rem;
+    }
+
+    #ilwyvpx {
+        color: inherit !important;
+        font-size: 1.6rem;
+    }
+
+    #ifv814 {
+        font-size: 30px;
+        line-height: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #iol3qbl {
+        margin-top: 0px !important;
+    }
+
+    #i43s36k {
+        padding-bottom: 22px;
+    }
+
+    #iyaw6oi {
+        padding-bottom: 22px;
+    }
+    #iv7nx8j {
+    padding-bottom: 22px;
+    }
+    #fkt-image-6c9-181-b6b {
+        height: 300px;
+    }
+        #fkt-image-404-1a3-a2d {
+            height: 300px;
+    }
+    #fkt-image-f77-5ba-83a {
+        height: 300px;
+    }
+    #fkt-image-385-dbb-bba {
+        height: 300px;
+    }
+
+    #iday0cu {
+        text-align: center;
+    }
+
+    #iqyr64n {
+        height: auto;
+    }
+
+    .faqbtn{
+        color: #ff9900 !important;
+    }
+}
   
-  @media (min-width: 960px) {
+@media (min-width: 960px) {
     #fkt-link-c49-d92-af7{
       padding-right: 15px;
       padding-left: 15px;

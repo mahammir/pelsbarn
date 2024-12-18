@@ -105,6 +105,10 @@
     #igvkg {
         font-size: 18px;
     }
+
+    #i4dg34b {
+        width: 100% !important;
+    }
 }
   
 @media (min-width: 960px) {
@@ -121,6 +125,12 @@
   #fkt-link-c49-d92-af7 {
     padding-left: 10px !important;
     padding-right: 10px  !important;
+}
+
+@media (min-width: 600px) {
+    #i4dg34b {
+        width: 100% !important;
+    }
 }
 
 .faqbtn{

@@ -166,3 +166,7 @@
 input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
     accent-color: transparent !important;
 }
+
+.fk-youtube{
+    height: 450px;
+}

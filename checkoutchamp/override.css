@@ -140,6 +140,26 @@
 
     #fkt-image-a90-c88-938 {
         width: 500px !important;
+    }
+
+    #fkt-image-098-e97-acd {
+        height: auto;
+        padding-right: 10px !important;
+    }
+
+    #fkt-image-bf7-eaa-b84 {
+        width: 500px !important;
+    }
+
+    #idhvjn1 {
+        width: 100% !important;
+    }
+
+    #fkt-image-098-e97-acd {
+        height: auto;
+        padding-right: 5px !important;
+    
+    }
 }
 
 @media (min-width: 600px) {

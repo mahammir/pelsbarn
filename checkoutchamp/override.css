@@ -118,6 +118,10 @@
         font-size: 26px;
         padding-top: 20px;
     }
+
+    #i2ke84r {
+        font-size: 15px;
+    }
 }
 
 @media (min-width: 960px) {
@@ -133,13 +137,14 @@
     }
 }
 
+
 #ipvvqz {
     width: 100% !important;
 }
 
 #fkt-link-c49-d92-af7 {
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
 }
 
 .faqbtn {

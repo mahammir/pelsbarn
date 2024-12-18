@@ -113,6 +113,11 @@
     #i4dg34b {
         width: 100% !important;
     }
+
+    #ig163hs h2{
+        font-size: 26px;
+        padding-top: 20px;
+    }
 }
 
 @media (min-width: 960px) {

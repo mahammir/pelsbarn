@@ -159,7 +159,7 @@
     color: #ff9900 !important;
 }
 
-.faqbtn:focus {
+.faqbtnactive {
     color: #fff !important;
 }
 

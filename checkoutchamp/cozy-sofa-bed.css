@@ -13041,6 +13041,15 @@ cust-info-input{
     align-self: center;
   }
 
+  #i8ebe {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  #il8dj{
+    height: 370px;
+  }
+
 }
 
 @media (min-width: 960px) {

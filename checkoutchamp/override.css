@@ -160,6 +160,10 @@
         padding-right: 5px !important;
     
     }
+
+    .slick-slide img {
+        padding: 3px;
+    }
 }
 
 @media (min-width: 600px) {

@@ -154,3 +154,7 @@
 .faqbtn:active {
     color: #fff !important;
 }
+
+input[type="checkbox"], input[type="radio"] {
+    accent-color: transparent !important;
+}

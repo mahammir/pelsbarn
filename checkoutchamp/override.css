@@ -101,6 +101,13 @@
     .faqbtn{
         color: #ff9900 !important;
     }
+
+    #fkt-image-bf7-eaa-b84 {
+        width: 300px !important;
+    }
+
+    #igvkg {
+        font-size: 18px;
 }
   
 @media (min-width: 960px) {

@@ -12996,3 +12996,9 @@ cust-info-input{
 	text-align:center;
   }
 }
+
+@media (max-width: 480px) {
+  #idpfbdl {
+      width: 190px;
+  }
+}

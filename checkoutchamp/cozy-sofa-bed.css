@@ -13042,3 +13042,14 @@ cust-info-input{
   }
 
 }
+
+@media (min-width: 960px) {
+  #fkt-link-c49-d92-af7{
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+#ipvvqz{
+  width: 100% !important; 
+}

@@ -26,6 +26,7 @@
   
     #iowqy5r {
       align-self: center;
+      margin-right: 0px;
     }
   
     #i8ebe {
@@ -35,8 +36,7 @@
   
     #il8dj{
       height: 370px;
-    }
-  
+    }  
   }
   
   @media (min-width: 960px) {

@@ -372,6 +372,17 @@ object-fit: contain;
 }
 /* Promo Video End */
 
+/* FAQS */
+#i706qee{
+    width: 100%;
+    flex-basis: 30%;
+}
+#i4d4hih{
+    width: 100%;
+    flex-basis: 70%;
+}
+/* FAQS END */
+
 /* Media Query */
 @media screen and (max-width: 992px) {
     #i1rjfch{
@@ -399,6 +410,7 @@ object-fit: contain;
         margin-left: auto;
         margin-right: auto;
     }
+    #iory15j,
     #i4dg34b,
     #i4d4hih,
     #ip3yigg > div,

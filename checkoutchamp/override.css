@@ -231,7 +231,7 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 
 /* feature product */
 
-#imm9nu #cc-thumbnail-carousel-nav .cc-thumbnail-carousel-slide .slick-slider .slick-track {
+#cc-thumbnail-carousel-nav .slick-track {
     display: flex;
     gap: 6px;
 }
@@ -248,12 +248,13 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
     width: auto;
 }
 #i0vonj{
-    width: max-content;
+    width: max-content !important;
     align-items: center;
 }
 
 #ioc98y,
-#itc732
+#itc732,
+#ig55l2
 {
     width: max-content;    
 }
@@ -268,6 +269,7 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
     flex-wrap: wrap;
     justify-content: center;
     width: 100% !important;
+    height: auto !important;
     gap: 6px;
 }
 

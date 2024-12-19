@@ -365,6 +365,13 @@ object-fit: contain;
 }
 /* Do You Know Testimonial End */
 
+/* Promo Video */
+#iqyr64n{
+    height: 100% !important;
+    max-height: 480px !important;
+}
+/* Promo Video End */
+
 /* Media Query */
 @media screen and (max-width: 992px) {
     #i1rjfch{
@@ -393,6 +400,11 @@ object-fit: contain;
         margin-right: auto;
     }
     #i4dg34b{
+        width: 100% !important;
+    }
+    #ifv814,
+    #iqxb69k,
+    #ihk0szp{
         width: 100% !important;
     }
 }

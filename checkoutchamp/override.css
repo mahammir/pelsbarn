@@ -207,6 +207,23 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 
 /* -- added -- */
 
+/* hero section 1 */
+
+/* hero section 1 end */
+
+/* hero section 2 */
+#i0jovdc{
+    height: auto !important;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+#iyukchd{
+    display: flex !important;
+    max-width: 520px;
+}
+/* hero section 2 end */
+
 /* hero review slider */
 #iowz8a .slick-track{
     display: flex;

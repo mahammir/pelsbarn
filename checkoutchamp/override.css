@@ -206,6 +206,18 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 }
 
 /* -- added -- */
+#i1ygr,
+#ixczefg,
+#iehe0y,
+#iol3qbl,
+#iseu77i,
+#ij12w1w,
+#i986ry
+{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* hero section 1 */
 
@@ -342,11 +354,13 @@ object-fit: contain;
     align-items: stretch;
     padding: 0 !important;
     margin: 0 !important;
+    height: 100%;
 }
 
 #i9og0ys > div{
     width: 100% !important;
     margin: 0 !important;
+    height: 100%;
 }
 
 #fkt-image-098-e97-acd{
@@ -394,6 +408,10 @@ object-fit: contain;
     width: 100% !important;
 }
 
+#i12ur84 .fk-row .fk-col div:nth-child(3) >div {
+    display: flex;
+    width: max-content !important;
+}
 /* Customer Reviews */
 
 /* Do You Know Testimonial */

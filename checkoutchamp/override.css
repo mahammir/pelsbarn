@@ -345,9 +345,15 @@ object-fit: contain;
 #i20wn8q > div{
     flex-basis: 50% !important;
 }
+
+#itmpk66 > div{
+    width: auto !important;
+}
+
 #i42zbal>div>div{
     width: 100% !important;
 }
+
 /* Customer Reviews */
 
 /* Media Query */
@@ -382,6 +388,9 @@ object-fit: contain;
 @media screen and (max-width: 768px) {
     #i20wn8q{
         flex-direction: column;
+    }
+    #iday0cu{ 
+        text-align: center;
     }
 }
 

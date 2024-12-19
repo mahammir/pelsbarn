@@ -207,7 +207,7 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 }
 
 .slick-track .slick-slide .fk-inner-column{
-    display: flex;
+    display: flex !important;
     height: 100%;
     flex-direction: column;
 }

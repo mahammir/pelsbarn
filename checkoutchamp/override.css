@@ -452,6 +452,9 @@ div#i2ypy1u > div{
     align-items: flex-start;
     width: 160px;
 }
+div#i2ypy1u > div > div > div{
+    width: 100% !important;
+}
 #i8r4i6b{
     width: auto !important;
     align-self: self-start !important;

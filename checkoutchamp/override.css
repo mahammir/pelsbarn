@@ -212,7 +212,7 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
     flex-direction: column;
 }
 
-.slick-track .slick-slide .fk-inner-column:nth-child(3){
+.slick-track .slick-slide .fk-inner-column > div:nth-child(2) {
     display: flex;
     height: 100%;
 }

@@ -439,6 +439,24 @@ object-fit: contain;
     width: 100%;
     flex-basis: 70%;
 }
+
+#i2ypy1u{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+div#i2ypy1u > div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 160px;
+}
+#i8r4i6b{
+    width: auto !important;
+    align-self: self-start !important;
+    width: 160px;
+}
 /* FAQS END */
 
 /* Media Query */

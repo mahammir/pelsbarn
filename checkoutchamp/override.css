@@ -212,7 +212,8 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 #iol3qbl,
 #ip5081x,
 #if0g8je,
-#ix4g7f
+#ix4g7f,
+#i0w5f5d
 {
     max-width: 1280px;
     margin-left: auto;
@@ -386,10 +387,12 @@ object-fit: contain;
 #ioex72p{
     padding: 0;
     gap: 16px;
+    justify-content: center;
 }
 #ioex72p > div {
     padding: 0 !important;
     margin: 0 !important;
+    max-width: 323px;
 }
 
 /* products card end */

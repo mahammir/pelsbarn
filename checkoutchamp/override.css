@@ -218,10 +218,32 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
     padding-bottom: 16px;
 }
 
+#iiqf41k{
+    gap: 16px;
+}
+
 #iyukchd{
     display: flex !important;
+    flex-direction: column;
     max-width: 520px;
 }
+
+#izbgx > div {
+    gap: 4px;
+}
+
+#ighf80y,
+#i2hbr8j,
+#ijghnkm{
+    width: auto !important;
+}
+
+#ighf80y img,
+#i2hbr8j img,
+#ijghnkm img{
+object-fit: contain;
+}
+
 /* hero section 2 end */
 
 /* hero review slider */
@@ -320,6 +342,10 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 
 /* Media Query */
 @media screen and (max-width: 992px) {
+    #iiqf41k{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
     #i8mf2p{
         padding: 16px;
     }

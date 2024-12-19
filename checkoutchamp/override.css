@@ -340,8 +340,21 @@ object-fit: contain;
 }
 /* science card end */
 
+
+/* Customer Reviews */
+#i20wn8q > div{
+    flex-basis: 50% !important;
+}
+#i42zbal>div>div{
+    width: 100% !important;
+}
+/* Customer Reviews */
+
 /* Media Query */
 @media screen and (max-width: 992px) {
+    #i1rjfch{
+        width: 100%;
+    }
     #iiqf41k{
         flex-direction: column-reverse;
         align-items: center;
@@ -363,6 +376,12 @@ object-fit: contain;
     #i9scff{
         margin-left: auto;
         margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #i20wn8q{
+        flex-direction: column;
     }
 }
 

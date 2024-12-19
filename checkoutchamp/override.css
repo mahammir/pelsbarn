@@ -291,14 +291,28 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 }
 
 #i9og0ys > div{
-    width: 100%;
+    width: 100% !important;
+}
+
+#fkt-image-098-e97-acd{
+    height: 100%;
+    width: 100% !important;
+    object-fit: cover;
 }
 /* science card end */
 
 /* Media Query */
 @media screen and (max-width: 992px) {
+    #i8mf2p{
+        padding: 16px;
+    }
+    #idc25w {
+        gap: 16px;
+    }
     #ihya6q{
         max-height: 480px;
+        border-radius: 10px;
+        overflow: hidden;
     }
     #imm9nu{
         position: relative;

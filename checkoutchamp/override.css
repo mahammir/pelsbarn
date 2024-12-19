@@ -431,6 +431,15 @@ object-fit: contain;
     #ihk0szp{
         width: 100% !important;
     }
+
+    #is3xff9{
+        width: 100% !important;
+        overflow: auto;
+    }
+    #fkt-image-736-2b1-b9b{
+        min-width: 600px !important;
+        height: auto !important;
+    }
 }
 
 @media screen and (max-width: 768px) {

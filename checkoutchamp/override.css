@@ -340,6 +340,8 @@ object-fit: contain;
 }
 /* science card end */
 
+/*  */
+
 
 /* Customer Reviews */
 #i20wn8q > div{
@@ -356,6 +358,12 @@ object-fit: contain;
 }
 
 /* Customer Reviews */
+
+/* Do You Know Testimonial */
+#igcnexf{
+    width: 100% !important;
+}
+/* Do You Know Testimonial End */
 
 /* Media Query */
 @media screen and (max-width: 992px) {
@@ -383,6 +391,9 @@ object-fit: contain;
     #i9scff{
         margin-left: auto;
         margin-right: auto;
+    }
+    #i4dg34b{
+        width: 100% !important;
     }
 }
 

@@ -206,6 +206,8 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 }
 
 /* -- added -- */
+
+/* hero review slider */
 #iowz8a .slick-track{
     display: flex;
 }
@@ -226,4 +228,47 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 #iowz8a .slick-dotted.slick-slider .slick-dots{
     bottom: -30px;
 }
+
+/* feature product */
+
+#imm9nu #cc-thumbnail-carousel-nav .cc-thumbnail-carousel-slide .slick-slider .slick-track {
+    display: flex;
+    gap: 6px;
+}
+
+#ix0b3tl{
+    width: auto !important;
+}
+
+#izyp7i{
+    gap: 4px;
+}
+
+#iqdl5h{
+    width: auto;
+}
+#i0vonj{
+    width: max-content;
+    align-items: center;
+}
+
+#ioc98y,
+#itc732
+{
+    width: max-content;    
+}
+
+#ieer9lq {
+    width: 100% !important;
+}
+
+#fkt-link-c49-d92-af7{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100% !important;
+    gap: 6px;
+}
+
 /* -- added end -- */

@@ -50,8 +50,8 @@
         justify-content: center;
     }
 
-    #igx4sil, #i3vw24n, #i6vdkgl, #ihssaxv, #i9rxpwg, #ick6l3o, #i0fb5zr{
-        justify-content: flex-start;
+    #izyp7i{
+        justify-content: left;
     }
 
     #igebmrm {
@@ -541,3 +541,7 @@ div#i2ypy1u > div > div > div{
 }
 
 /* -- added end -- */
+
+#igx4sil, #i3vw24n, #i6vdkgl, #ihssaxv, #i9rxpwg, #ick6l3o, #i0fb5zr{
+    justify-content: flex-start;
+}

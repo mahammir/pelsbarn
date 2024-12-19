@@ -247,10 +247,12 @@ object-fit: contain;
 /* hero section 2 end */
 
 /* hero review slider */
+
+#izk5ut7 .slick-track,
 #iowz8a .slick-track{
     display: flex;
 }
-
+#izk5ut7 .slick-track .slick-slide .fk-inner-column,
 #iowz8a .slick-track .slick-slide .fk-inner-column{
     display: flex !important;
     height: 100%;
@@ -428,6 +430,9 @@ object-fit: contain;
     }
     #iday0cu{ 
         text-align: center;
+    }
+    #iory15j {
+        flex-direction: column !important;
     }
 }
 

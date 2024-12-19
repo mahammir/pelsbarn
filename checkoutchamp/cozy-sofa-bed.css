@@ -7755,7 +7755,7 @@ cust-info-input{
   margin-top:10px;
   font-weight:300;
   line-height:24px;
-  text-align:left;
+  text-align: -webkit-center;
   color:#4D4D4D !important;
 }
 #iv7nx8j{

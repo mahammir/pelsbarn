@@ -248,11 +248,11 @@ object-fit: contain;
 
 /* hero review slider */
 
-#izk5ut7 .slick-track,
+#ix4g7f .slick-track,
 #iowz8a .slick-track{
     display: flex;
 }
-#izk5ut7 .slick-track .slick-slide .fk-inner-column,
+#ix4g7f .slick-track .slick-slide .fk-inner-column,
 #iowz8a .slick-track .slick-slide .fk-inner-column{
     display: flex !important;
     height: 100%;
@@ -342,7 +342,11 @@ object-fit: contain;
 }
 /* science card end */
 
-/*  */
+/* review 2 cards slider */
+/* #izk5ut7 .slick-track .slick-slide .fk-inner-column{
+
+} */
+/* review 2 cards slider end */
 
 
 /* Customer Reviews */

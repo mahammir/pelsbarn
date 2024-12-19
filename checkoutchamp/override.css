@@ -326,7 +326,7 @@ object-fit: contain;
 
 #i9og0ys,
 #i2alo2{
-    width: 100%;
+    width: 100% !important;
 }
 
 #i9og0ys > div{
@@ -344,6 +344,7 @@ object-fit: contain;
 /* Customer Reviews */
 #i20wn8q > div{
     flex-basis: 50% !important;
+    width: 100% !important;
 }
 
 #itmpk66 > div{

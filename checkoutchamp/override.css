@@ -46,10 +46,6 @@
         font-size: 26px;
     }
 
-    #ijpsg9i{
-        justify-content: center;
-    }
-
     #izyp7i{
         justify-content: left;
     }
@@ -194,6 +190,10 @@
 @media (max-width: 768px) {
     #fkt-image-6c9-181-b6b, #fkt-image-404-1a3-a2d, #fkt-image-f77-5ba-83a, #fkt-image-385-dbb-bba{
         height: 300px;
+    }
+
+    #ijpsg9i{
+        justify-content: center;
     }
 }
 

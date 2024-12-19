@@ -345,6 +345,7 @@ object-fit: contain;
 /* review 2 cards slider */
 #ix4g7f .slick-track .slick-slide{
     background-color: transparent !important;
+    border-radius: 24px;
 }
 #ix4g7f .slick-track .slick-slide .fk-inner-row{
     max-height: 100% !important;

@@ -340,12 +340,13 @@ object-fit: contain;
     flex-direction: column;
     gap: 16px;
     align-items: stretch;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 #i9og0ys > div{
     width: 100% !important;
     margin: 0 !important;
-    padding: 0 !important;
 }
 
 #fkt-image-098-e97-acd{
@@ -367,6 +368,17 @@ object-fit: contain;
 }
 /* review 2 cards slider end */
 
+/* products card */
+#ioex72p{
+    padding: 0;
+    gap: 16px;
+}
+#ioex72p > div {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* products card end */
 
 /* Customer Reviews */
 #i20wn8q > div{

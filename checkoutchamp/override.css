@@ -175,7 +175,7 @@
     }
 }
 
-
+/* Global */
 #ipvvqz {
     width: 100% !important;
 }
@@ -200,3 +200,20 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 .fk-youtube{
     height: 450px;
 }
+
+/* -- added -- */
+.slick-track{
+    display: flex;
+}
+
+.slick-track .slick-slide .fk-inner-column{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+
+.slick-track .slick-slide .fk-inner-column:nth-child(3){
+    display: flex;
+    height: 100%;
+}
+/* -- added end -- */

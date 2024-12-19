@@ -458,7 +458,7 @@ div#i2ypy1u > div > div > div{
 #i8r4i6b{
     width: auto !important;
     align-self: self-start !important;
-    width: 160px;
+    width: 160px !important;
 }
 /* FAQS END */
 
@@ -508,6 +508,9 @@ div#i2ypy1u > div > div > div{
 }
 
 @media screen and (max-width: 768px) {
+    div#i2ypy1u > div{
+        align-items: center;
+    }
     #i20wn8q{
         flex-direction: column;
     }

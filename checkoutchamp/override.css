@@ -206,6 +206,10 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
     display: flex;
 }
 
+.slick-track .slick-slide .fk-inner-row{
+    height: 100%;
+}
+
 .slick-track .slick-slide .fk-inner-column{
     display: flex !important;
     height: 100%;

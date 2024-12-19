@@ -326,19 +326,33 @@ object-fit: contain;
     height: 100%;
 }
 
+#idc25w {
+    gap: 16px;
+}
+
 #i9og0ys,
 #i2alo2{
     width: 100% !important;
 }
 
+#i9og0ys{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: stretch;
+}
+
 #i9og0ys > div{
     width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #fkt-image-098-e97-acd{
     height: 100%;
     width: 100% !important;
     object-fit: cover;
+    padding: 0 !important;
 }
 /* science card end */
 
@@ -405,9 +419,6 @@ object-fit: contain;
     }
     #i8mf2p{
         padding: 16px;
-    }
-    #idc25w {
-        gap: 16px;
     }
     #ihya6q{
         max-height: 480px;

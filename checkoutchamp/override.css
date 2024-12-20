@@ -244,7 +244,10 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 }
 
 /* hero section 1 */
-
+#il8dj{
+    height: 100% !important;
+    padding: 16px;
+}
 /* hero section 1 end */
 
 /* hero section 2 */
@@ -503,12 +506,25 @@ div#i2ypy1u > div > div > div{
 
 /* Media Query */
 @media screen and (max-width: 992px) {
+    #iyxp7{
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+    #fkt-image-a90-c88-938{
+        width: 100% !important;
+        height: 100%;
+    }
+    #i4yt6{
+        display: flex !important;
+    }
     #i1rjfch{
         width: 100%;
     }
     #iiqf41k{
         flex-direction: column-reverse;
         align-items: center;
+        gap: 16px;
     }
     #i8mf2p{
         padding: 16px;
@@ -562,6 +578,11 @@ div#i2ypy1u > div > div > div{
 }
 
 @media screen and (max-width: 425px) {
+    #fkt-image-bf7-eaa-b84,
+    #i1bpqfx > div > div div,
+    #ishj6dp{
+        width: 100% !important;
+    }
     #icpzn{
         width: 100%;
     }
@@ -582,16 +603,25 @@ div#i2ypy1u > div > div > div{
     #i3f9yus{
         width: 260px !important;
     }
+    
+    #izox48c,
+    #cc-thumbnail-carousel-main .slick-list,
+    #cc-thumbnail-carousel-main .slick-list .slick-track
+    {
+        height: 100%;
+    }
     #cc-thumbnail-carousel-main{
         width: 260px !important;
     }
     #i6bmzv button:nth-child(1),
     #imm9nu button:nth-child(1) {
-        left: 0px !important;
+        left: -12px !important;
     }
-    #i6bmzv button:nth-child(3),
+    #i6bmzv button:nth-child(3){
+        right: -10px !important;
+    }
     #imm9nu button:nth-child(3) {
-        right: 0px !important;
+        right: -25px !important;
     }
     #cc-thumbnail-carousel-nav {
         margin-top: 20px;

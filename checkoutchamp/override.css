@@ -564,6 +564,9 @@ div#i2ypy1u > div > div > div{
 }
 
 @media screen and (max-width: 768px) {
+    #icpzn{
+        width: 100%;
+    }
     div#i2ypy1u > div{
         align-items: center;
     }
@@ -583,9 +586,6 @@ div#i2ypy1u > div > div > div{
     #i1bpqfx > div > div div,
     #ishj6dp{
         width: 100% !important;
-    }
-    #icpzn{
-        width: 100%;
     }
     #i6lwygp{
         align-items: center;
@@ -622,7 +622,7 @@ div#i2ypy1u > div > div > div{
         right: -10px !important;
     }
     #imm9nu button:nth-child(3) {
-        right: -25px !important;
+        right: -5px !important;
     }
     #cc-thumbnail-carousel-nav {
         margin-top: 20px;

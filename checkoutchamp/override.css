@@ -228,6 +228,7 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 }
 
 /* -- added -- */
+#iwwcqmn,
 #i1ygr,
 #ixczefg,
 #iehe0y,
@@ -349,7 +350,23 @@ object-fit: contain;
     gap: 6px;
 }
 
+#ig55l2,#if4uj5{
+    font-size: 16px;
+}
+
 /* feature product end */
+
+/* product features */
+#iwwcqmn{
+    background-color: transparent !important;
+    width: 100% !important;
+}
+#i9iu23v{
+    background: #F7F1E8 !important;
+    border-radius: 24px;
+    padding: 16px !important;
+}
+/* product features end */
 
 /* science card */
 #iehe0y{
@@ -542,6 +559,16 @@ div#i2ypy1u > div > div > div{
     #iory15j {
         flex-direction: column !important;
     }
+}
+
+@media screen and (max-width: 425px) {
+    #i3f9yus{
+        width: 260px !important;
+    }
+    #cc-thumbnail-carousel-nav {
+        margin-top: 20px;
+    }
+
 }
 
 /* -- added end -- */

@@ -562,8 +562,36 @@ div#i2ypy1u > div > div > div{
 }
 
 @media screen and (max-width: 425px) {
+    #icpzn{
+        width: 100%;
+    }
+    #i6lwygp{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    #ifmskes{
+        width: 260px !important;
+    }
+    #iubnn{
+        display: inline-flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
     #i3f9yus{
         width: 260px !important;
+    }
+    #cc-thumbnail-carousel-main{
+        width: 260px !important;
+    }
+    #i6bmzv button:nth-child(1),
+    #imm9nu button:nth-child(1) {
+        left: 0px !important;
+    }
+    #i6bmzv button:nth-child(3),
+    #imm9nu button:nth-child(3) {
+        right: 0px !important;
     }
     #cc-thumbnail-carousel-nav {
         margin-top: 20px;

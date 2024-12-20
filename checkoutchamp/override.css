@@ -246,13 +246,15 @@ input[type="checkbox"], input[type="radio"], .fk-product-radio:checked {
 /* hero section 1 */
 #il8dj{
     height: 100% !important;
+    min-height: 600px;
     padding: 16px;
 }
 /* hero section 1 end */
 
 /* hero section 2 */
 #i0jovdc{
-    height: auto !important;
+    height: 100% !important;
+    min-height: 600px;
     padding-top: 16px;
     padding-bottom: 16px;
 }
@@ -512,7 +514,6 @@ div#i2ypy1u > div > div > div{
         gap: 16px;
     }
     #fkt-image-a90-c88-938{
-        width: 100% !important;
         height: 100%;
     }
     #i4yt6{

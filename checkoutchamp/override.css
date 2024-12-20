@@ -377,6 +377,26 @@ object-fit: contain;
 #iimfayk{
     overflow: hidden;
 }
+
+#iimfayk > div > div:nth-child(1){
+    max-width: max-content;
+    min-width: max-content;
+    padding: 0 32px;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#ic5jq0i{
+    font-size: 32px;
+    font-family: 'Bookmania regular';
+}
+
+#iimfayk > div > div:nth-child(2){
+    overflow: hidden;
+}
+
 #iiw0ew1{
     padding: 12px 10px;
     width: 100%;
@@ -384,7 +404,7 @@ object-fit: contain;
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
-    animation: partnerscroller 100s linear infinite;
+    animation: partnerscroller 70s linear infinite;
 }
 #iiw0ew1 > img {
     width: 100%;
@@ -466,6 +486,13 @@ object-fit: contain;
     height: 100%;
 }
 /* review 2 cards slider end */
+
+#i1bpqfx > div > img{
+    width: 120px !important;
+    height: 120px !important;
+    object-fit: contain;
+    object-position: center;
+}
 
 /* products card */
 #ioex72p{
@@ -604,6 +631,14 @@ div#i2ypy1u > div > div > div{
 }
 
 @media screen and (max-width: 768px) {
+    #iimfayk > div > div:nth-child(1){
+        padding: 0 16px;
+    }
+    
+    #ic5jq0i{
+        font-size: 28px;
+    }
+
     #icpzn{
         width: 100%;
     }
@@ -623,7 +658,7 @@ div#i2ypy1u > div > div > div{
 
 @media screen and (max-width: 425px) {
     #fkt-image-bf7-eaa-b84,
-    #i1bpqfx > div > div div,
+    #i1bpqfx > div > div > div,
     #ishj6dp{
         width: 100% !important;
     }

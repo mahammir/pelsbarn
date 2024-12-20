@@ -378,6 +378,11 @@ object-fit: contain;
     overflow: hidden;
 }
 
+div#iimfayk > div{
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+}
+
 #iimfayk > div > div:nth-child(1){
     max-width: max-content;
     min-width: max-content;

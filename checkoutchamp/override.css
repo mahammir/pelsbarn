@@ -375,7 +375,7 @@ object-fit: contain;
 
 /* science card */
 #iehe0y{
-    padding: 16px;
+    padding: 10px;
 }
 
 #ihya6q{
@@ -387,9 +387,18 @@ object-fit: contain;
     gap: 16px;
 }
 
+#i8mf2p{
+    padding: 16px !important;
+}
+
 #i9og0ys,
 #i2alo2{
     width: 100% !important;
+}
+
+#i2alo2{
+    margin: 0px !important;
+    padding: 0px !important;
 }
 
 #i9og0ys{
@@ -626,6 +635,12 @@ div#i2ypy1u > div > div > div{
     }
     #cc-thumbnail-carousel-nav {
         margin-top: 20px;
+    }
+
+    #i42zbal{
+        width: 13px !important;
+        height: 13px !important;
+        margin: 1px;
     }
 
 }
